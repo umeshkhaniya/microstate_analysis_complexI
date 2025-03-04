@@ -1,4 +1,3 @@
 # microstate_analysis_complexI
 
-Jupyter notebook file has the analysis of large data sets of microstates file obtained from monte carlo run for E-channel and antiporter channel of complex I.
-This analysis will help to find out the loading and unloading states for protein structure. This will also help to find out input protonation state for Molecular dyanamics simulation.
+The Jupyter Notebook file contains the analysis of large datasets of microstates obtained from a Monte Carlo run for the E-channel and antiporter channel of complex I. This analysis will help identify the loading and unloading states of the protein structure. It will also assist in determining the input protonation state for molecular dynamics simulation.
